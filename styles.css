@@ -21,7 +21,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 90vh;
+  height: 95vh;
 }
 
 h1 {
@@ -101,5 +101,9 @@ span {
 @media screen and (max-width:360px) {
   footer a {
     font-size: 0.8rem;
+  }
+
+  .container {
+    margin-top: 10vh;
   }
 }
