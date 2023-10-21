@@ -1,16 +1,15 @@
 # Dice-Game
 
-Usage:
+# Usage
+A dice game involves two dices. This game is made for having fun and often used for elements of chance, strategy and competition.
 
-A dice game involves two dices as the primary component. Players roll the dices with a click on the button. 
-Below the dice, the score is constantly updated by clicking a button.
-Dice games are often used for entertainment, gambling, educational purposes, and socializing. 
-They can be a fun way to pass the time, encourage friendly competition, and provide a platform for social interaction. 
+# Features
+A dice game involves two dices as the primary component. By clicking on a player, you can enter player names. Click the "ROLL THE DICE" button to roll the dice. Also the animation shows the dice rolling for both players. Below the dice, the score is constantly updated by clicking a button. You can also click "RESET" button for resetting the scoreboard.
 
-Technologies Used:
+# Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-HTML, CSS, JavaScript
-
-Feedback:
-
-If you have any feedback or questions about this project, please don't hesitate to contact me.
+# Feedback
+If you have any feedback or inquiries regarding this project, please feel free to reach out to me without any hesitation. 🎲😊🎲
