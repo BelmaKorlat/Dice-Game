@@ -25,7 +25,8 @@ function startRound() {
     image2.setAttribute("src", "images/diceGif.gif");
     image2.style.transform = "scaleX(-1)";
     image2.style.transform = "rotate(180deg)";
-
+    let audio = new Audio("sounds/dice-142528.mp3");
+    audio.play();
     setTimeout(() => {
         var randomNumber1 = Math.floor(Math.random() * 6 + 1);
         var randomNumber2 = Math.floor(Math.random() * 6 + 1);
