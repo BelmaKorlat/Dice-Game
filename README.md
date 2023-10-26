@@ -1,15 +1,25 @@
 # Dice-Game
 
-## Usage
-A dice game involves two dices. This game is made for having fun and often used for elements of chance, strategy and competition.
+Welcome to the Dice Game website! This interactive game, built using HTML, CSS, and JavaScript, is designed for two players. The game simulates the experience of rolling dice and provides an enjoyable gaming experience.
 
-## Features
-A dice game involves two dices as the primary component. By clicking on a player, you can enter player names. Click the "ROLL THE DICE" button to roll the dice. Also the animation shows the dice rolling for both players. Below the dice, the score is constantly updated by clicking a button. You can also click "RESET" button for resetting the scoreboard.
+## Gameplay
+1. Player Names: Players can enter their names at the beginning of the game, although this step is optional.
+2. Roll the Dice: Clicking the "Roll the Dice" button triggers the animation that mimics the rolling of the dice. The game displays the results of the dice rolls for each player.
+3. Reset Game: Players can reset the game at any point by clicking the reset button, which refreshes the game data.
+
+## How to Play
+Simply open the provided link in your web browser to access the Dice Game. Enter the players' names if you wish, and then start the game by clicking the "Roll the Dice" button. Enjoy the thrill of the virtual dice roll and have fun competing with your friends!
 
 ## Technologies Used
+This game website is developed using the following technologies:
+
 - HTML
 - CSS
 - JavaScript
 
-## Feedback
-If you have any feedback or inquiries regarding this project, please feel free to reach out to me without any hesitation. 🎲😊🎲
+## Contact Information
+Feedback for this project is highly appreciated. If you have any suggestions, improvements, or ideas, please feel free to contact me.
+
+Have a great time playing the Dice Game! 🎲
+
+
